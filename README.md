@@ -14,13 +14,13 @@
 
 ---
 
-Welcome to my Power BI Portfolio Repository. This collection highlights the dashboards and analytics projects I’ve built to demonstrate my ability to transform raw, complex data into clear, actionable insights. Each project reflects my expertise in business intelligence, dashboard design, and data storytelling. Whether it’s finance, sales, marketing, or operations, my goal is always the same: to create tools that help businesses make smarter, data-driven decisions.  
+Welcome to my Power BI Portfolio Repository! This collection highlights business intelligence tools, dashboards, and infographics that I’ve built to demonstrate my abilities to transform complex raw data into actionable insights. Each project reflects my expertise in data modeling, data visualization and design, and data storytelling. My goal is to create tools that help businesses make smarter, data-driven decisions.  
 
 ---
 
 # [Project 1: Austin,TX Real Estate Insights Tool](Austin_Housing_Tool) 
 
-![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
+![Real Estate Insights Demo]('insert gif here')  
  
   <details>
     <summary>Click here for additional details about the tool!</summary></br>
