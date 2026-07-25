@@ -14,7 +14,7 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 ---
 
-# [Project 1: Austin,TX Real Estate Tool](Austin_Housing_Tool) 
+# [Project 1: Austin,TX Real Estate Insights Tool](Austin_Housing_Tool) 
 
 ![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
  
