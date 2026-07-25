@@ -1,5 +1,9 @@
 # Power BI Projects Portfolio  
 
+## 🏫 Certifications
+![Static Badge](https://img.shields.io/badge/Microsoft-Excel_Expert-10793F?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F4D249?style=for-the-badge)
+
 ## 🛠 Tools  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)  
 
@@ -19,17 +23,25 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 ![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
  
   <details>
-    <summary>Click here for additional details about 'insert project title'!</summary></br>
+    <summary>Click here for additional details about the tool!</summary></br>
   
-This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
+This **professional Power BI tool** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
   
   The dashboard highlights:  
   - **Global Sales by Country, Region, and City**  
   - **Profitability by Product Category & Sub-Category**  
   - **Top-Performing Cities and Product Drill-Throughs**  
-  - **Sales vs Profit Trends Over Time**  
+  - **Sales vs Profit Trends Over Time**
+
+The dashboard is designed with multiple views:  
+- **KPI Cards** → Average Compliance Rate, Average Turnaround Time.  
+- **Department Analysis** → Critical vs Non-Critical tests, test volumes.  
+- **Distribution View** → Turnaround time distribution by time buckets.
+- **Features View** → What 
   
-  Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**.  
+With visuals and user interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
+
+*This tool was designed without the assistance of AI and features publicly available data.*
   
   🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)
 
@@ -52,6 +64,8 @@ The dashboard is designed with two interactive views:  
 
 With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
 
+*This tool was designed without the assistance of AI and features ficitious data.*
+
 🔗 [Click here to view the full project details →](Google_Analytics_Dashboard)  
 
   </details>
@@ -72,6 +86,8 @@ The dashboard is designed with two interactive views:  
 - **Division Drill-Down** → Filterable breakdown of revenue and profit across divisions.  
 
 With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
+
+*This tool was designed without the assistance of AI and features ficitious data.*
 
 🔗 [Click here to view the full project details →](Profit_Loss_Dashboard)  
 
@@ -95,36 +111,5 @@ The dashboard is designed with multiple views:  
 🔗 [Click here to view the full project details →](Healthcare_Dashboard)  
 
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
-
----
-
-# [Project 5: Application Tracker Dashboard](Application_Tracker_Dashboard)  
-
-![Application Tracker Dashboard Demo](Application_Tracker_Dashboard/images/JobTracker.gif)  
-
-This **interactive Power BI dashboard** was designed to track and manage **job applications** efficiently. It helps job seekers and recruiters monitor applications across multiple companies, roles, and hiring stages — from submission through interviews to offers.  
-
-The dashboard provides insights into:  
-- **Applications by Status** → Submitted, Interview, Offer, Rejected.  
-- **Applications by Company/Role** → Track where efforts are most concentrated.  
-- **Timeline View** → Monitor progress of applications over time.  
-
-🔗 [Click here to view the full project details →](Application_Tracker_Dashboard)  
-
----
-
-# [Project 6: Sales Dashboard](Sales_Dashboard)  
-
-![Sales Dashboard Demo](Sales_Dashboard/images/SalesGif.gif)  
-
-This **interactive Power BI dashboard** visualizes sales performance data, tracking **Revenue, Orders, Profit, and Sales Trends** across products, categories, and regions.  
-
-The dashboard is designed with two interactive views:  
-- **Sales Overview** → Revenue and order trends with KPIs and charts.  
-- **Category & Region Analysis** → Drilldowns by product category, region, and time period.  
-
-With dynamic slicers for **date, category, and region**, this solution helps stakeholders monitor overall sales performance while identifying key growth opportunities.  
-
-🔗 [Click here to view the full project details →](Sales_Dashboard)  
 
 ---
