@@ -19,7 +19,7 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 ![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
  
   <details>
-    <summary>Click here for more project details!</summary></br>
+    <summary>Click here for additional details about 'insert project title'!</summary></br>
   
 This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
   
@@ -41,6 +41,9 @@ This **professional Power BI sales dashboard** provides insights into **global s
 
 ![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)  
 
+  <details>
+    <summary>Click here for additional details about 'insert project title'!</summary></br>
+   
 This **interactive Power BI dashboard** visualizes Google Analytics data to track key digital marketing performance metrics. The report provides a clear overview of **sessions, engagement rate, users, new users, bounce rate, total revenue, conversion rate, and purchases**.  
 
 The dashboard is designed with two interactive views:  
@@ -51,11 +54,16 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 🔗 [Click here to view the full project details →](Google_Analytics_Dashboard)  
 
+  </details>
+
 ---
 
 # [Project 3: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
 
 ![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif)  
+
+  <details>
+    <summary>Click here for additional details about 'insert project title'!</summary></br>
 
 This **interactive Power BI dashboard** visualizes a company’s Profit & Loss statement, providing insights into **Revenue, Net Profit, COGS, Gross Profit, Operating Expenses, and EBIT**.  
 
@@ -67,6 +75,9 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 
 🔗 [Click here to view the full project details →](Profit_Loss_Dashboard)  
 
+
+  </details>
+  
 ---
 
 # [Project 4: Healthcare Dashboard](Healthcare_Dashboard)  
