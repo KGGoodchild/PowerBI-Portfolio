@@ -14,21 +14,26 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 ---
 
-# [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
+# [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard) 
 
 ![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
+ 
+  <details>
+    <summary>Click here for more project details!</summary>
+  
+  This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
+  
+  The dashboard highlights:  
+  - **Global Sales by Country, Region, and City**  
+  - **Profitability by Product Category & Sub-Category**  
+  - **Top-Performing Cities and Product Drill-Throughs**  
+  - **Sales vs Profit Trends Over Time**  
+  
+  Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**.  
+  
+  🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)
 
-This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
-
-The dashboard highlights:  
-- **Global Sales by Country, Region, and City**  
-- **Profitability by Product Category & Sub-Category**  
-- **Top-Performing Cities and Product Drill-Throughs**  
-- **Sales vs Profit Trends Over Time**  
-
-Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**.  
-
-🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)  
+  </details>
 
 ---
 
