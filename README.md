@@ -19,9 +19,9 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 ![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
  
   <details>
-    <summary>Click here for more project details!</summary>
+    <summary>Click here for more project details!</summary></br>
   
-  This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
+This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
   
   The dashboard highlights:  
   - **Global Sales by Country, Region, and City**  
