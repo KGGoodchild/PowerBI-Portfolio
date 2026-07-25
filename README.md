@@ -40,12 +40,14 @@ The dashboard is designed with multiple views:  
 - **Features View** → What 
   
 With visuals and user interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
-
-*This tool was designed without the assistance of AI and features publicly available data.*
   
   🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)
 
+> *This tool was designed without the assistance of AI and features publicly available data.*
+
   </details>
+
+<!-- This is a comment and won't be rendered
 
 ---
 
@@ -64,9 +66,9 @@ The dashboard is designed with two interactive views:  
 
 With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
 
-*This tool was designed without the assistance of AI and features ficitious data.*
-
 🔗 [Click here to view the full project details →](Google_Analytics_Dashboard)  
+
+> *This tool was designed without the assistance of AI and features ficitious data.*
 
   </details>
 
@@ -113,3 +115,5 @@ The dashboard is designed with multiple views:  
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
 
 ---
+
+ -->
