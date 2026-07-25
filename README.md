@@ -37,7 +37,7 @@ This **professional Power BI sales dashboard** provides insights into **global s
 
 ---
 
-# [Project 2: Google Analytics Dashboard](Google_Analytics_Dashboard)  
+# [Project 2: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
 
 ![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)  
 
@@ -58,7 +58,7 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 ---
 
-# [Project 3: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
+# [Project 3: Grocery Market Research Dashboard](Grocery_Market_Research)  
 
 ![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif)  
 
@@ -74,7 +74,6 @@ The dashboard is designed with two interactive views:  
 With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
 
 🔗 [Click here to view the full project details →](Profit_Loss_Dashboard)  
-
 
   </details>
   
