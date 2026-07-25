@@ -1,4 +1,4 @@
-# Power BI Projects Portfolio  
+# Power BI Portfolio  
 
 ## 🏫 Certifications
 ![Static Badge](https://img.shields.io/badge/Microsoft-Excel_Expert-10793F?style=for-the-badge)
