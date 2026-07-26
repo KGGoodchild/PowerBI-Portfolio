@@ -34,14 +34,14 @@ This **professional Power BI tool** provides insights into **global sales, profi
   - **Sales vs Profit Trends Over Time**
 
 The dashboard is designed with multiple views:  
-- **KPI Cards** → Average Compliance Rate, Average Turnaround Time.  
-- **Department Analysis** → Critical vs Non-Critical tests, test volumes.  
-- **Distribution View** → Turnaround time distribution by time buckets.
+- **Summary View** → Average Compliance Rate, Average Turnaround Time.  
+- **Location View** → Critical vs Non-Critical tests, test volumes.  
+- **School View** → Turnaround time distribution by time buckets.
 - **Features View** → What 
   
 With visuals and user interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
   
-  🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)
+  🔗 [Click here to view the full project details →](Austin_Housing_Tool)
 
 > *This tool was designed without the assistance of AI and features publicly available data.*
 
