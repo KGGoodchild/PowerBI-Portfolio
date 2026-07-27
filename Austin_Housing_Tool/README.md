@@ -32,6 +32,10 @@ This **professional Power BI tool** provides a variety of views to help the cons
 
 This tool utilizes a **self-service design philosophy**, built with user-friendly web design principals that turns end-users from passive data viewers into **active, independent data investigators**.
 
+### Check out the full published tool ![here](https://app.powerbi.com/view?r=eyJrIjoiYjI4MWZkOWUtZjg3MS00MGUzLTk3M2ItNGMxNzIwZDIxMGJlIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
+
+</br>
+
 > *This tool was designed without the assistance of AI and features publicly available data from 2020.*</br>
 > *This tool was created in July 2026.*
 
@@ -39,27 +43,32 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 
 ## 📸 Preview  
 
-### Overview Page  
-![Sales Dashboard - Drilldown](images/image%20(1).png)  
+### Summary View  
+![Summary View](images/Austin_Insights_Intro.gif)  
 
-### Drilldown Page  
-![Sales Dashboard - Overview](images/image.png)
+### Location View
+![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
+
+### School View
+![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
+
+### Features View
+![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
 
 ---
 
 ## 📁 Data Model Structure
 
-![Sales Dashboard - Overview](images/image.png)
+![Austin_Housing_Tool Data Model](images/data_model_structure.png)
 
 ---
 
-## 👩‍💻 Author  
+## 👩‍💻 Created By  
 
-**Ashlyn Strickland**  
-- 🎓 Master’s Degree in Data Science  
-- 📊 Certified Data Scientist | Power BI, Tableau, Excel, Python, R  
-- 🌐 [datadrivendashboards.com](http://datadrivendashboards.com)  
-- 💼 Open to collaborations in **business intelligence & analytics**  
+**Keenan Goodchild**  
+- 📊 Microsoft Certified Excel Expert & Power BI Data Analyst | PCEP Certified Entry-Level Python Programmer
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/keenan-goodchild/)  
+- 💼 Open to opportunities in **business intelligence, data analytics, and other data-related fields**
 
 
 <p align="center">
