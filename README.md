@@ -6,10 +6,11 @@
 
 ## 🛠 Tools  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
 <!-- Comment Block
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,10 +26,17 @@
 ---
 
 ## 💡 Skills  
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
-![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-FFD700?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
+![Visual Design](https://img.shields.io/badge/Visual_Design-228B22?style=for-the-badge)
+![Data Exploration](https://img.shields.io/badge/Data_Exploration-critical?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
+![Infographic Creation](https://img.shields.io/badge/Infographic_/_Dashboard_Development-green?style=for-the-badge)
+![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
+
+
 <!-- Comment Block
 ![Digital Marketing Analytics](https://img.shields.io/badge/Digital%20Marketing%20Analytics-FF7F50?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![User Behavior Analysis](https://img.shields.io/badge/User%20Behavior%20Analysis-228B22?style=for-the-badge&logo=hotjar&logoColor=white)
