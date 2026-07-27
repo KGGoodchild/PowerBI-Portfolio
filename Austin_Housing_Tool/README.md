@@ -1,10 +1,11 @@
 # Austin, TX Real Estate Insights Tool
 
 ## 🛠 Tools Used  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Microsoft_Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## 💡 Skills Demonstrated  
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
@@ -32,7 +33,7 @@ This **professional Power BI tool** provides a variety of views to help the cons
 
 This tool utilizes a **self-service design philosophy**, built with user-friendly web design principals that turns end-users from passive data viewers into **active, independent data investigators**.
 
-### Check out the full published tool ![here](https://app.powerbi.com/view?r=eyJrIjoiYjI4MWZkOWUtZjg3MS00MGUzLTk3M2ItNGMxNzIwZDIxMGJlIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
+  🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiYjI4MWZkOWUtZjg3MS00MGUzLTk3M2ItNGMxNzIwZDIxMGJlIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
 
 </br>
 
@@ -67,7 +68,7 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 
 **Keenan Goodchild**  
 - 📊 Microsoft Certified Excel Expert & Power BI Data Analyst | PCEP Certified Entry-Level Python Programmer
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/keenan-goodchild/)  
+- 🌐 [Check out my LinkedIn Profile](https://www.linkedin.com/in/keenan-goodchild/)  
 - 💼 Open to opportunities in **business intelligence, data analytics, and other data-related fields**
 
 
