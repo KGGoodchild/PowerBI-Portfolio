@@ -11,9 +11,13 @@
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
 ![Self-Service Design](https://img.shields.io/badge/Self--Service_Design-important?style=for-the-badge)
-![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-228B22?style=for-the-badge&logo=spreadsheet&logoColor=white)
-![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Web-Design Principles](https://img.shields.io/badge/Web--Design_Principles-228B22?style=for-the-badge&logo=spreadsheet&logoColor=white)
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
+![Data Exploration](https://img.shields.io/badge/Data_Exploration-critical?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Validation](https://img.shields.io/badge/Data_Validation-blue?style=for-the-badge)
 
 ---
 
@@ -25,7 +29,7 @@
 
 This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
 
-This tool utilizes a **self-service design philosophy**, built with user-friendly web design principals that turns end-users from passive data viewers into **active, independent data investigators**.
+This tool utilizes a **self-service design philosophy**, built with user-friendly web-design principles that turns end-users from passive data viewers into **active, independent data investigators**.
 
  The dashboard is designed with multiple views:  
  - **Overall Features**
