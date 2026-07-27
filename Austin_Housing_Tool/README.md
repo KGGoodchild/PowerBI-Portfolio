@@ -78,9 +78,4 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 - 🌐 [Check out my LinkedIn Profile](https://www.linkedin.com/in/keenan-goodchild/)  
 - 💼 Open to opportunities in **business intelligence, data analytics, and other data-related fields**
 
-
-<p align="center">
-  <a href="../" style="text-decoration:none; font-size:22px;">
-    ⬅️ <b>RETURN TO PORTFOLIO</b>
-  </a>
-</p>
+[Head Back to the Power BI Portfolio](https://github.com/KGGoodchild/PowerBI-Portfolio)
