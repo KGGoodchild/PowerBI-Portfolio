@@ -33,6 +33,7 @@
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
+![Self-Service Design](https://img.shields.io/badge/Self--Service_Design-informational?style=for-the-badge)
 ![Infographic Creation](https://img.shields.io/badge/Infographic_/_Dashboard_Development-green?style=for-the-badge)
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
 
@@ -66,25 +67,26 @@ Welcome to my Power BI Portfolio Repository! This collection highlights business
   <details>
     <summary>Click here for additional details about the tool!</summary></br>
   
-This **professional Power BI tool** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
-  
-  The dashboard highlights:  
-  - **Global Sales by Country, Region, and City**  
-  - **Profitability by Product Category & Sub-Category**  
-  - **Top-Performing Cities and Product Drill-Throughs**  
-  - **Sales vs Profit Trends Over Time**
+This **professional Power BI tool** provides a variety of views to help the consumer evaluate property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics. 
+This tool utilizes a self-service design philosophy, built with user-friendly principals that turn the end-users from passive data viewers into active, independent data investigators.
 
-The dashboard is designed with multiple views:  
-- **Summary View** → Average Compliance Rate, Average Turnaround Time.  
-- **Location View** → Critical vs Non-Critical tests, test volumes.  
-- **School View** → Turnaround time distribution by time buckets.
-- **Features View** → What 
+ The dashboard highlights:  
+ - **Global Sales by Country, Region, and City**  
+ - **Profitability by Product Category & Sub-Category**  
+ - **Top-Performing Cities and Product Drill-Throughs**  
+ - **Sales vs Profit Trends Over Time**
+
+ The dashboard is designed with multiple views:  
+ - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
+ - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
+ - **School View** → Turnaround time distribution by time buckets.
+ - **Features View** → What 
   
-With visuals and user interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
+With visuals and user-friendly interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
   
   🔗 [Click here to view the full project details →](Austin_Housing_Tool)
 
-> *This tool was designed without the assistance of AI and features publicly available data.*
+> *This tool was designed without the assistance of AI and features publicly available data from 2020.*
 
   </details>
 
