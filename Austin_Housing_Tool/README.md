@@ -16,20 +16,24 @@
 
 ---
 
-![Austin, TX Real Estate Insights Tool](images/Untitled%20design%20(6).gif)
+![Austin, TX Real Estate Insights Tool](images/Austin_Insights_Intro.gif)
 
 ---
 
 ## 📊 Description  
 
-This project demonstrates a professional **Power BI Sales Performance Dashboard**.  
-It highlights:  
-- **Global Sales Performance** → Country, region, and city-level analysis  
-- **Profitability Insights** → Breakdown by product category & sub-category  
-- **Top-Performing Areas** → Drill-throughs for cities and product lines  
-- **Sales vs Profit Trends** → Dynamic trend analysis over time  
+This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
 
-This dashboard empowers decision-makers with actionable insights into **revenue drivers, profitability, and performance patterns**, enabling smarter business strategies.  
+ The dashboard is designed with multiple views:  
+ - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
+ - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
+ - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
+ - **Features View** → Uncover more information about the trends in Austin housing to surface what home features are driving current prices in the area.
+
+This tool utilizes a **self-service design philosophy**, built with user-friendly web design principals that turns end-users from passive data viewers into **active, independent data investigators**.
+
+> *This tool was designed without the assistance of AI and features publicly available data from 2020.*</br>
+> *This tool was created in July 2026.*
 
 ---
 
@@ -43,12 +47,9 @@ This dashboard empowers decision-makers with actionable insights into **revenue 
 
 ---
 
-## 📁 Project Structure  
+## 📁 Data Model Structure
 
-├── Sales_Performance_Dashboard  
-│   ├── images <- Screenshots & GIF previews  
-│   ├── pbix <- Power BI project file  
-│   └── README.md <- Documentation  
+![Sales Dashboard - Overview](images/image.png)
 
 ---
 
