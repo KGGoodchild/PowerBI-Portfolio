@@ -55,7 +55,7 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 ![Summary View](images/Austin_Housing_Summary.gif)  
 
 ### Location View
-![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
+![Sales Dashboard - Overview](images/Austin_Insights_Location.gif)
 
 ### School View
 ![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
