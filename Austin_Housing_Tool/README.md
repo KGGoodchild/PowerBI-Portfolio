@@ -74,7 +74,7 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 ## 👩‍💻 Created By  
 
 **Keenan Goodchild**  
-- 📊 Microsoft Certified Excel Expert & Power BI Data Analyst | PCEP Certified Entry-Level Python Programmer
+- 📊 Microsoft Certified Excel Expert & Power BI Data Analyst Associate | PCEP Certified Entry-Level Python Programmer
 - 🌐 [Check out my LinkedIn Profile](https://www.linkedin.com/in/keenan-goodchild/)  
 - 💼 Open to opportunities in **business intelligence, data analytics, and other data-related fields**
 
