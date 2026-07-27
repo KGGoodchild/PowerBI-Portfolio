@@ -69,7 +69,11 @@ Welcome to my Power BI Portfolio Repository! This collection highlights business
   
 This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
 
- The dashboard is designed with multiple views:  
+ The dashboard is designed with multiple views:
+ - **Overall Features**
+   - Cross-filtering capabilities
+   - Slicer panel
+   - View navigation buttons
  - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
  - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
  - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
@@ -79,12 +83,14 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
   
   🔗 [Click here to view the full project details →](Austin_Housing_Tool)
 
-> *This tool was designed without the assistance of AI and features publicly available data from 2020.*</br>
+> *This tool was designed for skill demonstration purposes, without the assistance of AI, and features publicly available data from 2020.* </br>
 > *This tool was created in July 2026.*
 
   </details>
 
 ---
+
+<!-- Comment Block
 
 # [Project 2: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
 
@@ -134,7 +140,7 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
   
 ---
 
-<!-- Comment Block
+
 
 # [Project 4: Healthcare Dashboard](Healthcare_Dashboard)  
 
