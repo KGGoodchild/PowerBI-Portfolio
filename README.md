@@ -79,7 +79,7 @@ This **professional Power BI tool** provides a variety of views to help the cons
  - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
  - **Features View** → Uncover more information about the trends in Austin housing to surface what home features are driving current prices in the area.
 
-This tool utilizes a **self-service design philosophy**, built with user-friendly web design principles that turns end-users from passive data viewers into **active, independent data investigators**.
+This tool utilizes a **self-service design philosophy**, built with user-friendly web-design principles that turns end-users from passive data viewers into **active, independent data investigators**.
   
   🔗 [Click here to view the full project details →](Austin_Housing_Tool)
 
