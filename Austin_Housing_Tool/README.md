@@ -58,10 +58,10 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 ![Sales Dashboard - Overview](images/Austin_Insights_Location.gif)
 
 ### School View
-![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
+![Sales Dashboard - Overview](images/Austin_Insights_School.gif)
 
 ### Features View
-![Sales Dashboard - Overview](images/Austin_Insights_Intro.gif)
+![Sales Dashboard - Overview](images/Austin_Insights_Features.gif)
 
 ---
 
