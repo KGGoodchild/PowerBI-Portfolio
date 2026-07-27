@@ -62,31 +62,25 @@ Welcome to my Power BI Portfolio Repository! This collection highlights business
 
 # [Project 1: Austin,TX Real Estate Insights Tool](Austin_Housing_Tool) 
 
-![Austin,TX Real Estate Insights Demo]('insert gif here')  
+![Austin,TX Real Estate Insights Demo](Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
  
   <details>
     <summary>Click here for additional details about the tool!</summary></br>
   
-This **professional Power BI tool** provides a variety of views to help the consumer evaluate property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics. 
-This tool utilizes a self-service design philosophy, built with user-friendly principals that turn the end-users from passive data viewers into active, independent data investigators.
-
- The dashboard highlights:  
- - **Global Sales by Country, Region, and City**  
- - **Profitability by Product Category & Sub-Category**  
- - **Top-Performing Cities and Product Drill-Throughs**  
- - **Sales vs Profit Trends Over Time**
+This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
 
  The dashboard is designed with multiple views:  
  - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
  - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
- - **School View** → Turnaround time distribution by time buckets.
- - **Features View** → What 
-  
-With visuals and user-friendly interactivity inspired by web design philosophies, the tool looks good AND empowers leaders to make **data-driven business decisions**.
+ - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
+ - **Features View** → Uncover more information about the trends in Austin housing to surface what home features are driving current prices in the area.
+
+This tool utilizes a **self-service design philosophy**, built with user-friendly web design principals that turns end-users from passive data viewers into **active, independent data investigators**.
   
   🔗 [Click here to view the full project details →](Austin_Housing_Tool)
 
-> *This tool was designed without the assistance of AI and features publicly available data from 2020.*
+> *This tool was designed without the assistance of AI and features publicly available data from 2020.*</br>
+> *This tool was created in July 2026.*
 
   </details>
 
@@ -109,7 +103,8 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 🔗 [Click here to view the full project details →](Coffee_Sales_Infographic)
 
-> *This tool was designed without the assistance of AI, using a mock scenario with ficitious data.*
+> *This infographic was designed without the assistance of AI, using a mock scenario with ficitious data.*</br>
+> *This infographic was created in July 2026.*
 
   </details>
 
@@ -132,7 +127,8 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 
 🔗 [Click here to view the full project details →](Grocery_Market_Research)  
 
-> *This tool was designed without the assistance of AI, using a mock scenario with ficitious data.*
+> *This report was designed without the assistance of AI, using a mock scenario with ficitious data.*</br>
+> *This report was created in June 2026.*
 
   </details>
   
