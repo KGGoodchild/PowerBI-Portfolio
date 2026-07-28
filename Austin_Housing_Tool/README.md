@@ -31,7 +31,7 @@ This **professional Power BI tool** provides a variety of views to help the cons
 
 This tool utilizes a **self-service design philosophy**, built with user-friendly web-design principles that turns end-users from passive data viewers into **active, independent data investigators**.
 
- The dashboard is designed with multiple views:  
+ The tool is designed with multiple views:  
  - **Overall Features**
    - Cross-filtering capabilities
    - Slicer panel
