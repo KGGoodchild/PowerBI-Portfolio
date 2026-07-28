@@ -114,9 +114,9 @@ This **professional Power BI infographic** provides a Q1/Q2 2023 high-level perf
 
 ---
 
-# [Project 3: Grocery Market Research Dashboard](Grocery_Market_Research)  
+# [Project 3: Grocery Market Research Report](Grocery_Market_Research)  
 
-![Grocery Market Research Dashboard](Grocery_Market_Research/images/grocery_market_intro.gif)  
+![Grocery Market Research Report](Grocery_Market_Research/images/grocery_market_intro.gif)  
   <details>
     <summary>Click here for additional details about about the report!</summary></br>
 
