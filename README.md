@@ -98,7 +98,7 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 ![Kangaroo Koffee Infographic](Coffee_Sales_Infographic/images/summary_segment.png)  
 
   <details>
-    <summary>Click here for additional details about infographic!</summary></br>
+    <summary>Click here for additional details about the infographic!</summary></br>
    
 This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023.
 
