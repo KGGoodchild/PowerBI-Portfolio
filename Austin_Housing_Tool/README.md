@@ -15,7 +15,6 @@
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
 ![Data Exploration](https://img.shields.io/badge/Data_Exploration-critical?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6347?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-blue?style=for-the-badge)
 
