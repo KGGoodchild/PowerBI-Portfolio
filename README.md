@@ -36,6 +36,7 @@
 ![Self-Service Design](https://img.shields.io/badge/Self--Service_Design-informational?style=for-the-badge)
 ![Infographic Creation](https://img.shields.io/badge/Infographic_/_Dashboard_Development-green?style=for-the-badge)
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
+![Forecasting](https://img.shields.io/badge/Forecasting-B00090?style=for-the-badge&logo=spreadsheet&logoColor=white)
 
 
 <!-- Comment Block
@@ -90,31 +91,32 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 
 ---
 
-<!-- Comment Block
+
 
 # [Project 2: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
 
-![Kangaroo Koffee Infographic]('insert gif here')  
+![Kangaroo Koffee Infographic](Coffee_Sales_Infographic/images/summary_segment.png)  
 
   <details>
     <summary>Click here for additional details about infographic!</summary></br>
    
-This **interactive Power BI dashboard** visualizes Google Analytics data to track key digital marketing performance metrics. The report provides a clear overview of **sessions, engagement rate, users, new users, bounce rate, total revenue, conversion rate, and purchases**.  
+This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023.
 
-The dashboard is designed with two interactive views:  
-- **Overview Page** → Engagement trends, traffic source breakdown, and geographical analytics.  
-- **User Behavior Page** → Session duration, pages per session, bounce rate by traffic source, and engagement by device type.  
-
-With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
+ This infographic is designed with summary metrics and three main segments:
+ - **Insights** → Finds insights gained from sales across different product categories and which products drive revenue.
+ - **Improvement Opportunities** → Looks at the revenue across time of day and day of the week to find a potential area for improvement.
+ - **Forecast for Second Half 2023** → Sets a conservative sales goal and forecasts the second half of 2023, and gives a stretch goal based on Q2 growth.
 
 🔗 [Click here to view the full project details →](Coffee_Sales_Infographic)
 
-> *This infographic was designed without the assistance of AI, using a mock scenario with ficitious data.*</br>
-> *This infographic was created in July 2026.*
+> *This infographic was designed for skill demonstration purposes, without the assistance of AI, and features a mock scenario using fictitious data.* </br>
+> *This tool was created in July 2026.*
 
   </details>
 
 ---
+
+<!-- Comment Block
 
 # [Project 3: Grocery Market Research Dashboard](Grocery_Market_Research)  
 
