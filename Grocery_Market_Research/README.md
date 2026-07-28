@@ -24,20 +24,12 @@
 
 ## 📊 Description  
 
-This **professional Power BI report** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023. The company's logo, color palette, and visual design were created from scratch for this project.
+This **professional Power BI report** provides marketing research metrics that surfaces insights into a retail grocer's six most recent marketing campaigns, including a look at their customer's demographic information and specific key purchase drivers. The company's logo, color palette, and visual design were created from scratch for this project.
 
-Scenario: You work for a grocery-specific market research firm called ‘Market Research’ that is collaborating with a retail delicatessen that specializes in wine and fine, exotic foods.
-Problem: Your client is a small business, and they are still learning about their market and evaluating their developing customer base.
-As a BI developer, you have been handed a sample of marketing data. Your client would like you to build a BI tool that surfaces insights around a few specific items of interest:
-How are our 6 recent marketing campaigns performing?
-How are our products performing?
-Who are our customers?
-What is driving campaign performance and customer decision-making?
-
- This report is designed with three main pages:
- - **Campaign Performance** → Metrics that look into the performance of the six most recent marketing campaigns.
- - **Customer Demographics** → A deep dive into the customer demographics, including education, martial status, salary, age, and more.
- - **Purchase Drivers** → Identifying what products are key purchase drivers and what influences affected each campaign.
+ This report is designed with three main focuses:
+ - **Campaign Performance** → Metrics that look into the performance of the company's products and the six most recent marketing campaigns.
+ - **Customer Demographics** → A deep dive into who are customers are, including education, martial status, salary, age, and more.
+ - **Purchase Drivers** → Identifying what drives campaign performance and customer decision-making.
 
   🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiODY4OTM1ZjctM2MxNi00ODgxLWE5YzgtNDQzYjJmN2JkZThiIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
 </br>
