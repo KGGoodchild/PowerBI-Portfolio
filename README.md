@@ -69,7 +69,7 @@ Welcome to my Power BI Portfolio Repository! This collection highlights business
   
 This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
 
- The dashboard is designed with multiple views:
+ The tool is designed with multiple views:
  - **Overall Features**
    - Cross-filtering capabilities
    - Slicer panel
