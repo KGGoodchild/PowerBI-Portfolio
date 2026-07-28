@@ -64,11 +64,10 @@ Welcome to my Power BI Portfolio Repository! This collection highlights business
 # [Project 1: Austin,TX Real Estate Insights Tool](Austin_Housing_Tool) 
 
 ![Austin,TX Real Estate Insights Demo](Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
- 
   <details>
     <summary>Click here for additional details about the tool!</summary></br>
   
-This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
+This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics. The company's logo, color palette, and visual design were created from scratch for this project.
 
  The tool is designed with multiple views:
  - **Overall Features**
@@ -96,11 +95,10 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 # [Project 2: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
 
 ![Kangaroo Koffee Infographic](Coffee_Sales_Infographic/images/summary_segment.png)  
-
   <details>
     <summary>Click here for additional details about the infographic!</summary></br>
    
-This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023.
+This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023. The company's logo, color palette, and visual design were created from scratch for this project.
 
  This infographic is designed with summary metrics and three main segments:
  - **Insights** → Finds insights gained from sales across different product categories and which products drive revenue.
@@ -116,33 +114,29 @@ This **professional Power BI infographic** provides a Q1/Q2 2023 high-level perf
 
 ---
 
-<!-- Comment Block
-
 # [Project 3: Grocery Market Research Dashboard](Grocery_Market_Research)  
 
-![Grocery Market Research Dashboard]('insert gif here')  
-
+![Grocery Market Research Dashboard](Grocery_Market_Research/images/grocery_market_intro.gif)  
   <details>
-    <summary>Click here for additional details about about the dashboard!</summary></br>
+    <summary>Click here for additional details about about the report!</summary></br>
 
-This **interactive Power BI dashboard** visualizes a company’s Profit & Loss statement, providing insights into **Revenue, Net Profit, COGS, Gross Profit, Operating Expenses, and EBIT**.
+This **professional Power BI report** provides marketing research metrics that surfaces insights into a retail grocer's six most recent marketing campaigns, including a look at their customer's demographic information and specific key purchase drivers. The company's logo, color palette, and visual design were created from scratch for this project.
 
-The dashboard is designed with two interactive views:  
-- **Full P&L Analysis** → Monthly and quarterly trends with waterfall and bar charts.  
-- **Division Drill-Down** → Filterable breakdown of revenue and profit across divisions.  
-
-With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
+ This report is designed with three main focuses:
+ - **Campaign Performance** → Metrics that look into the performance of the company's products and the six most recent marketing campaigns.
+ - **Customer Demographics** → A deep dive into who are customers are, including education, martial status, salary, age, and more.
+ - **Purchase Drivers** → Identifying what drives campaign performance and customer decision-making.
 
 🔗 [Click here to view the full project details →](Grocery_Market_Research)  
 
-> *This report was designed without the assistance of AI, using a mock scenario with ficitious data.*</br>
-> *This report was created in June 2026.*
+> *This report was designed for skill demonstration purposes, without the assistance of AI, and features a mock scenario using fictitious data.* </br>
+> *This tool was created in July 2026.*
 
   </details>
   
 ---
 
-
+<!-- Comment Block
 
 # [Project 4: Healthcare Dashboard](Healthcare_Dashboard)  
 
