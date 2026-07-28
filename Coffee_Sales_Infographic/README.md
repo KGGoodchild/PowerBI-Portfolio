@@ -52,7 +52,7 @@ This **professional Power BI infographic** provides a Q1/Q2 2023 high-level perf
 ### First Half 2023 - Improvement Opportunities
 ![Infographic Improvement](images/improvement_segment.png)
 
-### Forecasting Second Half 2023
+### Second Half 2023 - Forecasting
 ![Infographic Forecast](images/forecast_segment.png)
 
 ---
