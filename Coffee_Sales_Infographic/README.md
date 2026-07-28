@@ -26,7 +26,7 @@
 
 ## 📊 Description  
 
-This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023. The company's logo, color palette, and visual design was created from scratch for this project.
+This **professional Power BI infographic** provides a Q1/Q2 2023 high-level performance review of a coffee company's new sales region, covering insights from a range of strategic areas, pinpointing specific opportunities for improvements, and forecasting the remainder of 2023. The company's logo, color palette, and visual design were created from scratch for this project.
 
  This infographic is designed with summary metrics and three main segments:
  - **Insights** → Finds insights gained from sales across different product categories and which products drive revenue.
