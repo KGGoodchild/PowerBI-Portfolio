@@ -35,9 +35,9 @@ Who are our customers?
 What is driving campaign performance and customer decision-making?
 
  This report is designed with three main pages:
- - **Campaign Performance** → Finds insights gained from sales across different product categories and which products drive revenue.
- - **Customer Demographics** → Looks at the revenue across time of day and day of the week to find a potential area for improvement.
- - **Purchase Drivers** → Sets a conservative sales goal and forecasts the second half of 2023, and gives a stretch goal based on Q2 growth.
+ - **Campaign Performance** → Metrics that look into the performance of the six most recent marketing campaigns.
+ - **Customer Demographics** → A deep dive into the customer demographics, including education, martial status, salary, age, and more.
+ - **Purchase Drivers** → Identifying what products are key purchase drivers and what influences affected each campaign.
 
   🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiODY4OTM1ZjctM2MxNi00ODgxLWE5YzgtNDQzYjJmN2JkZThiIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
 </br>
