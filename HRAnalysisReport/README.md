@@ -1,7 +1,5 @@
 # HR Analysis Report
 
-> This page is a work in progress.
-
 ## 🛠 Tools Used  
 ![Power BI](https://img.shields.io/badge/Microsoft_Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -18,9 +16,10 @@
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
 ![Data Exploration](https://img.shields.io/badge/Data_Exploration-critical?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-blue?style=for-the-badge)
+![Tooltips](https://img.shields.io/badge/Tooltips-B00090?style=for-the-badge&logo=spreadsheet&logoColor=white)
+![HR Reporting](https://img.shields.io/badge/HR_Reporting-green?style=for-the-badge)
 
 ---
-<!---
 
 ![HR Analysis Report](images/hr_analysis_intro.gif)
 
@@ -28,43 +27,37 @@
 
 ## 📊 Description  
 
-This **professional Power BI tool** provides a variety of views to help the consumer evaluate 2020 property listings in the Austin, TX area, based on location, nearby schools, property features, and a plethora of other metrics.
+This **professional Power BI tool** provides a variety of pages developed for a Human Resources department to help evaluate the company's employee headcount, retention, and turnover, broken down by a variety of metrics like department, job level, employee demographics, and more.
 
 This tool utilizes a **self-service design philosophy**, built with user-friendly web-design principles that turns end-users from passive data viewers into **active, independent data investigators**. The company's logo, color palette, and visual design were created from scratch for this project.
 
- The tool is designed with multiple views:  
+ The tool is designed with multiple pages:  
  - **Overall Features**
    - Cross-filtering capabilities
-   - Slicer panel
-   - View navigation buttons
- - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
- - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
- - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
- - **Features View** → Uncover more information about the trends in Austin housing to surface what home features are driving current prices in the area.
+   - Slicer Pane
+   - Time Frame slicer
+ - **Headcount Page** → An overview of current headcount, with breakdowns by department, job level, and employee demographics, as well as additional information through tooltips.
+ - **Retention Page** → Evaluates employee retention by year, job level, and department, including a slope chart that focuses on overall retention change.
+ - **Turnover Page** → Evaluates employee turnover by year, job level, and department, including information about the employees who left the company and why.
 
-  🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiYjI4MWZkOWUtZjg3MS00MGUzLTk3M2ItNGMxNzIwZDIxMGJlIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
+  🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiM2ZmNTU0MDYtYTlmYS00MDgwLWE5MmItZGQwZGMyOGIyZmYyIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
 </br>
 
-> *This tool was designed for skill demonstration purposes, without the assistance of AI, and features publicly available data from 2020.* </br>
-> *This tool was created in July 2026.*
+> *This tool was designed for skill demonstration purposes, without the assistance of AI, and features fictitious data.* </br>
+> *This tool was created in August 2026.*
 
 ---
 
 ## 📸 Preview  
 
-### Summary View  
-![Summary View](images/Austin_Housing_Summary.gif)  
+### Headcount Page
+![Headcount Page](images/hr_headcount.gif)
 
-### Location View
-![Sales Dashboard - Overview](images/Austin_Insights_Location.gif)
+### Retention Page
+![Retention Page](images/hr_retention.gif)
 
-### School View
-![Sales Dashboard - Overview](images/Austin_Insights_School.gif)
-
-### Features View
-![Sales Dashboard - Overview](images/Austin_Insights_Features.gif)
-
--->
+### Turnover Page
+![Turnover Page](images/hr_turnover.gif)
 
 ---
 
