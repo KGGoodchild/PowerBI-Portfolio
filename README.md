@@ -90,9 +90,36 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
 
 ---
 
+# [Project 2: Human Resources Analysis Report](HRAnalysisReport) 
 
+![HR Report](HRAnalysisReport/images/hr_analysis_intro.gif)
+  <details>
+    <summary>Click here for additional details about the report!</summary></br>
+  
+This **professional Power BI tool** provides a variety of pages developed for a Human Resources department to help evaluate the company's employee headcount, retention, and turnover, broken down by a variety of metrics like department, job level, employee demographics, and more.
 
-# [Project 2: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
+This tool utilizes a **self-service design philosophy**, built with user-friendly web-design principles that turns end-users from passive data viewers into **active, independent data investigators**. The company's logo, color palette, and visual design were created from scratch for this project.
+
+ The tool is designed with multiple pages:  
+ - **Overall Features**
+   - Cross-filtering capabilities
+   - Slicer Pane
+   - Time Frame slicer
+ - **Headcount Page** → An overview of current headcount, with breakdowns by department, job level, and employee demographics, as well as additional information through tooltips.
+ - **Retention Page** → Evaluates employee retention by year, job level, and department, including a slope chart that focuses on overall retention change.
+ - **Turnover Page** → Evaluates employee turnover by year, job level, and department, including information about the employees who left the company and why.
+
+  
+  🔗 [Click here to view the full project details →](HRAnalysisReport)
+
+> *This tool was designed for skill demonstration purposes, without the assistance of AI, and features fictitious data.* </br>
+> *This tool was created in August 2026.*
+
+  </details>
+
+---
+
+# [Project 3: Kangaroo Koffee Sales Infographic](Coffee_Sales_Infographic)  
 
 ![Kangaroo Koffee Infographic](Coffee_Sales_Infographic/images/summary_segment.png)  
   <details>
@@ -114,7 +141,7 @@ This **professional Power BI infographic** provides a Q1/Q2 2023 high-level perf
 
 ---
 
-# [Project 3: Grocery Market Research Report](Grocery_Market_Research)  
+# [Project 4: Grocery Market Research Report](Grocery_Market_Research)  
 
 ![Grocery Market Research Report](Grocery_Market_Research/images/grocery_market_intro.gif)  
   <details>
