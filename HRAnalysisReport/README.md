@@ -1,5 +1,7 @@
 # HR Analysis Report
 
+> This page is a work in progress.
+
 ## 🛠 Tools Used  
 ![Power BI](https://img.shields.io/badge/Microsoft_Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -20,7 +22,7 @@
 ---
 <!---
 
-![HR Analysis Report](images/HR_Analysis_Intro.gif)
+![HR Analysis Report](images/hr_analysis_intro.gif)
 
 ---
 
