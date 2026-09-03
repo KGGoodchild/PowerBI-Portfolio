@@ -36,7 +36,7 @@ This tool utilizes a **self-service design philosophy**, built with user-friendl
    - View navigation buttons
  - **Summary View** → An overview of properties available in Austin, TX, including metrics for pricing, living area size, and lot size.
  - **Location View** → An interactive map that lets you filter properties and hover over them to get additional information through tooltips.
- - **School View** → A view of nearby schools and find communities in the area that fit specific education preferences.
+ - **School View** → Check out nearby schools and find communities in the area that fit specific education preferences.
  - **Features View** → Uncover more information about the trends in Austin housing to surface what home features are driving current prices in the area.
 
   🔗 [Click here to interact with the published project →](https://app.powerbi.com/view?r=eyJrIjoiYjI4MWZkOWUtZjg3MS00MGUzLTk3M2ItNGMxNzIwZDIxMGJlIiwidCI6IjZmODFlZjFkLTlmYmQtNGMwYi05OGVkLWJhNWQ1MzA5YzQzMCJ9)
